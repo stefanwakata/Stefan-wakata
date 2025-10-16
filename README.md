@@ -47,7 +47,7 @@ I’m currently seeking **Winter & Summer 2026 internships** in:
 ### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefan%20Wakata-blue?logo=linkedin)](https://www.linkedin.com/in/stefanwakata)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-blueviolet?logo=github)](https://stefanwakata.github.io)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-blueviolet?logo=github)](https://github.com/stefanwakata)  
 [![Email](https://img.shields.io/badge/Email-stefanwakata55%40gmail.com-red?logo=gmail)](mailto:stefanwakata55@gmail.com)  
 
 ---
