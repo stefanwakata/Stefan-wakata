@@ -20,13 +20,11 @@ I’m currently seeking **Winter & Summer 2026 internships** in:
 
 ### Highlight Projects
 
-| [**Maternal Health Risk Prediction**](https://github.com/stefanwakata/maternal-health-risk) | Predicts maternal health risk using Random Forests & Logistic Regression, exploring model interpretability (SHAP values). | Python, scikit-learn, Pandas |
+| [**Maternal Health Risk Prediction**](https://github.com/stefanwakata/Maternal-health-risk) | Predicts maternal health risk using Random Forests & Logistic Regression, exploring model interpretability (SHAP values). | Python, scikit-learn, Pandas |
 
-| [**Chat Translator App**](https://github.com/stefanwakata/chat-translator) | Real-time translation app using NLP pipelines from Hugging Face for multilingual interaction. | Python, Streamlit, Transformers |
+| [**Chat Translator App**](https://github.com/stefanwakata/Time-chat-translator) | Real-time translation app using NLP pipelines from Hugging Face for multilingual interaction. | Python, Streamlit, Transformers |
 
-| [**Multimodal AI System**](https://github.com/stefanwakata/multimodal-ai) | Integrates text, audio & image inputs for intelligent real-time analysis through a FastAPI backend. | FastAPI, Streamlit, Hugging Face |
-
-| [**Diabetes Classification Project**](https://github.com/stefanwakata/diabetes-classification) | Compares ML models to predict diabetes likelihood with EDA, model tuning, and evaluation metrics. | scikit-learn, Pandas, NumPy |
+| [**Diabetes Classification Project**](https://github.com/stefanwakata/Diabete-prediction) | Compares ML models to predict diabetes likelihood with EDA, model tuning, and evaluation metrics. | scikit-learn, Pandas, NumPy |
 
 ---
 
@@ -50,7 +48,7 @@ I’m currently seeking **Winter & Summer 2026 internships** in:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefan%20Wakata-blue?logo=linkedin)](https://www.linkedin.com/in/stefanwakata)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-blueviolet?logo=github)](https://stefanwakata.github.io)  
-[![Email](https://img.shields.io/badge/Email-stefan.wakata%40gmail.com-red?logo=gmail)](mailto:stefan.wakata@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-stefan.wakata%40gmail.com-red?logo=gmail)](mailto:stefanwakata55@gmail.com)  
 
 ---
 *Thank you for stopping by! Feel free to explore my repositories or connect on LinkedIn to discuss opportunities in AI, ML, or data-driven innovation.*
