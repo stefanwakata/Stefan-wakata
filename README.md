@@ -9,7 +9,7 @@ Based in Gatineau, QC · Fluent in English & French
 ### About Me
 
 I'm a recent Mathematics & Computer Science graduate with hands-on experience building data-driven applications, from machine learning models to full-stack web platforms.  
-My projects explore the intersection between AI, backend development, and real-world impact — bridging mathematical thinking with applied engineering.
+My projects explore the intersection between AI, backend development, and real-world impact, bridging mathematical thinking with applied engineering.
 
 I'm currently seeking **entry-level roles** in:
 - Machine Learning / AI Engineering  
